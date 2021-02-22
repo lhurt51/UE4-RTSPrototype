@@ -7,7 +7,7 @@ Which includes many learning points on how to make a RTS in Unreal Engine 4.
 **Created with Unreal Engine 4.25**
 
 ![alt text](http://www.tomlooman.com/wp-content/uploads/2017/12/Thumb_MainUE4Course30_header.jpg)
-**Needs to be updated! ^^^**
+**^^^ Needs to be updated! ^^^**
 
 Project Features
 **(Features That Are Still Being Implemented)**
