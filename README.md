@@ -1,7 +1,8 @@
 # C++ Real Time Strategy Prototype in Unreal Engine 4.
 Using Zach (Two Nuerons) YouTube Class, I am creating a simple RTS game similar to that of StarCraft 2 or Age of Mythology
 
-**Looking for a step by step guide?** Check out Zach's **[UE4 - RTS Tutorial](https://www.youtube.com/playlist?list=PLwFl5pGzKd2i5YQ95NIth3k7qEUjVeBZ8)!** Which includes many learning points on how to make a RTS in Unreal Engine 4.
+**Looking for a step by step guide?** Check out Zach's **[UE4 - RTS Tutorial](https://www.youtube.com/playlist?list=PLwFl5pGzKd2i5YQ95NIth3k7qEUjVeBZ8)!**
+Which includes many learning points on how to make a RTS in Unreal Engine 4.
 
 **Created with Unreal Engine 4.25**
 
