@@ -13,12 +13,14 @@ Project Features
 **(Features That Are Still Being Implemented)**
 
  	- RTS Camera
-  	- RTS Controller
+  	- RTS Player Controller
+  	- RTS Pawns
 	- HUD / UI
 	
 Subjects Covered
 
 	- Understanding RTS Cameras
+	- Understanding RTS Player Controllers
 	- Less resource intensive BP casting
 
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA)
