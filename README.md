@@ -11,11 +11,12 @@ Using Zach (Two Nuerons) YouTube Class, I am creating a simple RTS game similar 
 Project Features
 **(Features That Are Still Being Implemented)**
 
-  - RTS Camera
-  - RTS Controller
+ 	- RTS Camera
+  	- RTS Controller
 	- HUD / UI
 	
 Subjects Covered
+
 	- Understanding RTS Cameras
 	- Less resource intensive BP casting
 
