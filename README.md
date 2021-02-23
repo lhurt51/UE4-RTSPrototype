@@ -22,5 +22,6 @@ Subjects Covered
 	- Understanding RTS Cameras
 	- Understanding RTS Player Controllers
 	- Less resource intensive BP casting
+	- Changing and accessing axis and action mappings
 
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA)
