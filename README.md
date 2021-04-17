@@ -16,7 +16,7 @@ Project Features
   	- RTS Player Controller
   	- RTS Pawns
 	- HUD / UI
-	- RTS Resources
+	- RTS Mater & Child Resources
 	
 Subjects Covered
 
