@@ -16,6 +16,7 @@ Project Features
   	- RTS Player Controller
   	- RTS Pawns
 	- HUD / UI
+	- RTS Mater & Child Resources
 	
 Subjects Covered
 
@@ -23,5 +24,7 @@ Subjects Covered
 	- Understanding RTS Player Controllers
 	- Less resource intensive BP casting
 	- Changing and accessing axis and action mappings
+	- RTS time management
+	- RTS resources spawns, depletion, and respawns
 
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA)
